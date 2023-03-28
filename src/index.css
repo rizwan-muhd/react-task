@@ -1,0 +1,11 @@
+.app-container {
+    min-height: 350px;
+}
+
+.form-class{
+    margin-top: 5rem;
+    display: flex;
+    flex-direction: column;
+    /* padding-inline: 7rem; */
+    row-gap: 10px;
+}
